@@ -13,7 +13,7 @@ This repository contains the full solution to the object detection assignment pr
 
 The deployed app is live and can be tested here:
 
-👉 **[Public Demo on Hugging Face Spaces](https://manthasaigopal-palcode-doors-windows.hf.space)**
+👉 **[Public Demo on Hugging Face Spaces](https://manthasaigopal-palcode-doors-windows.hf.space/docs)**
 
 
 ## 📁 Directory Structure
